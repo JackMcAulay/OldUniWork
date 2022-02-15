@@ -1,0 +1,14 @@
+C:\Users\jack\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\jack\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\jack\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\jack\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\MasterMind.csprojResolveAssemblyReference.cache
+C:\Users\jack\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\jack\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\jack\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+V:\SOFT153 MasterMind\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+V:\SOFT153 MasterMind\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+V:\SOFT153 MasterMind\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+V:\SOFT153 MasterMind\ConsoleApp1\ConsoleApp1\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+V:\SOFT153 MasterMind\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+V:\SOFT153 MasterMind\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+V:\SOFT153 MasterMind\ConsoleApp1\ConsoleApp1\obj\Debug\MasterMind.csprojAssemblyReference.cache

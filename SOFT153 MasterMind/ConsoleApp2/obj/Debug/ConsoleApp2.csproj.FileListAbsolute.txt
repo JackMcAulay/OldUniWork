@@ -1,0 +1,7 @@
+V:\SOFT153 MasterMind\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+V:\SOFT153 MasterMind\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+V:\SOFT153 MasterMind\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+V:\SOFT153 MasterMind\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+V:\SOFT153 MasterMind\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+V:\SOFT153 MasterMind\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+V:\SOFT153 MasterMind\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
