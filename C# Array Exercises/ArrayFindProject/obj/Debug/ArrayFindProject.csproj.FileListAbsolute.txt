@@ -1,0 +1,6 @@
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayFindProject\bin\Debug\ArrayProject.exe.config
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayFindProject\obj\Debug\ArrayProject.exe
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayFindProject\obj\Debug\ArrayProject.pdb
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayFindProject\obj\Debug\ArrayFindProject.csprojResolveAssemblyReference.cache
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayFindProject\bin\Debug\ArrayProject.exe
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayFindProject\bin\Debug\ArrayProject.pdb

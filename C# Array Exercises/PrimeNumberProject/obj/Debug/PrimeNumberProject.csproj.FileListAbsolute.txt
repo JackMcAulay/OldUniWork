@@ -1,0 +1,7 @@
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\PrimeNumberProject\bin\Debug\PrimeNumberProject.exe.config
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\PrimeNumberProject\bin\Debug\PrimeNumberProject.exe
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\PrimeNumberProject\bin\Debug\PrimeNumberProject.pdb
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\PrimeNumberProject\obj\Debug\PrimeNumberProject.csprojResolveAssemblyReference.cache
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\PrimeNumberProject\obj\Debug\PrimeNumberProject.csproj.CoreCompileInputs.cache
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\PrimeNumberProject\obj\Debug\PrimeNumberProject.exe
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\PrimeNumberProject\obj\Debug\PrimeNumberProject.pdb

@@ -1,0 +1,5 @@
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayMeanProject\bin\Debug\ArrayMeanProject.exe.config
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayMeanProject\obj\Debug\ArrayMeanProject.exe
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayMeanProject\obj\Debug\ArrayMeanProject.pdb
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayMeanProject\bin\Debug\ArrayMeanProject.exe
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayMeanProject\bin\Debug\ArrayMeanProject.pdb

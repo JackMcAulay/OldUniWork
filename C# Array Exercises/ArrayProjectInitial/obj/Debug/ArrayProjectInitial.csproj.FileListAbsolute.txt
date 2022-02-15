@@ -1,0 +1,19 @@
+E:\work\Courses\yr2016\SOFT152\lectures\week 02\exercises\SOFT152 Week 02 Topic B Exercises 16\ArrayProjectInitial\bin\Debug\ArrayProjectInitial.exe.config
+E:\work\Courses\yr2016\SOFT152\lectures\week 02\exercises\SOFT152 Week 02 Topic B Exercises 16\ArrayProjectInitial\obj\Debug\ArrayProjectInitial.exe
+E:\work\Courses\yr2016\SOFT152\lectures\week 02\exercises\SOFT152 Week 02 Topic B Exercises 16\ArrayProjectInitial\obj\Debug\ArrayProjectInitial.pdb
+C:\Drive E\Courses\yr2017\SOFT152\lectures\week02\exercises\SOFT152 Week 02 Topic B Exercises 17\ArrayProjectInitial\bin\Debug\ArrayProjectInitial.exe.config
+C:\Drive E\Courses\yr2017\SOFT152\lectures\week02\exercises\SOFT152 Week 02 Topic B Exercises 17\ArrayProjectInitial\obj\Debug\ArrayProjectInitial.exe
+C:\Drive E\Courses\yr2017\SOFT152\lectures\week02\exercises\SOFT152 Week 02 Topic B Exercises 17\ArrayProjectInitial\obj\Debug\ArrayProjectInitial.pdb
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayProjectInitial\bin\Debug\ArrayProjectInitial.exe.config
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayProjectInitial\obj\Debug\ArrayProjectInitial.exe
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayProjectInitial\obj\Debug\ArrayProjectInitial.pdb
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayProjectInitial\bin\Debug\ArrayProjectInitial.exe
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayProjectInitial\bin\Debug\ArrayProjectInitial.pdb
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayProjectInitial\obj\Debug\ArrayProjectInitial.csprojResolveAssemblyReference.cache
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayProjectInitial\bin\Debug\ArrayProjectInitial.exe.config
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayProjectInitial\bin\Debug\ArrayProjectInitial.exe
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayProjectInitial\bin\Debug\ArrayProjectInitial.pdb
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayProjectInitial\obj\Debug\ArrayProjectInitial.csproj.CoreCompileInputs.cache
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayProjectInitial\obj\Debug\ArrayProjectInitial.exe
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayProjectInitial\obj\Debug\ArrayProjectInitial.pdb
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayProjectInitial\obj\Debug\ArrayProjectInitial.csprojAssemblyReference.cache

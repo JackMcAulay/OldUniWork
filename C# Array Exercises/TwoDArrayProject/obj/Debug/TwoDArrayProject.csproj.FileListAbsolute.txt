@@ -1,0 +1,16 @@
+C:\Drive E\Courses\yr2016\SOFT152\lectures\week02\exercises\SOFT152 Week 02 Topic B Exercises 16\TwoDArrayProject\bin\Debug\TwoDArrayProject.exe.config
+C:\Drive E\Courses\yr2016\SOFT152\lectures\week02\exercises\SOFT152 Week 02 Topic B Exercises 16\TwoDArrayProject\obj\Debug\TwoDArrayProject.exe
+C:\Drive E\Courses\yr2016\SOFT152\lectures\week02\exercises\SOFT152 Week 02 Topic B Exercises 16\TwoDArrayProject\obj\Debug\TwoDArrayProject.pdb
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\TwoDArrayProject\bin\Debug\TwoDArrayProject.exe.config
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\TwoDArrayProject\obj\Debug\TwoDArrayProject.exe
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\TwoDArrayProject\obj\Debug\TwoDArrayProject.pdb
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\TwoDArrayProject\bin\Debug\TwoDArrayProject.exe
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\TwoDArrayProject\bin\Debug\TwoDArrayProject.pdb
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\TwoDArrayProject\obj\Debug\TwoDArrayProject.csprojResolveAssemblyReference.cache
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\TwoDArrayProject\bin\Debug\TwoDArrayProject.exe.config
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\TwoDArrayProject\bin\Debug\TwoDArrayProject.exe
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\TwoDArrayProject\bin\Debug\TwoDArrayProject.pdb
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\TwoDArrayProject\obj\Debug\TwoDArrayProject.csprojResolveAssemblyReference.cache
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\TwoDArrayProject\obj\Debug\TwoDArrayProject.csproj.CoreCompileInputs.cache
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\TwoDArrayProject\obj\Debug\TwoDArrayProject.exe
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\TwoDArrayProject\obj\Debug\TwoDArrayProject.pdb

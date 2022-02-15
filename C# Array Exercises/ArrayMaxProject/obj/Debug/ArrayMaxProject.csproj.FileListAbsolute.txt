@@ -1,0 +1,6 @@
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayMaxProject\bin\Debug\DuplicatesProject.exe.config
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayMaxProject\obj\Debug\DuplicatesProject.exe
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayMaxProject\obj\Debug\DuplicatesProject.pdb
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayMaxProject\obj\Debug\ArrayMaxProject.csprojResolveAssemblyReference.cache
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayMaxProject\bin\Debug\DuplicatesProject.exe
+C:\Users\jmcaulay\Downloads\Week 02 Practical 2-20171102\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\ArrayMaxProject\bin\Debug\DuplicatesProject.pdb

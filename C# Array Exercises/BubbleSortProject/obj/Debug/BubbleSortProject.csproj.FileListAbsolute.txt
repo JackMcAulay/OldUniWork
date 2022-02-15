@@ -1,0 +1,7 @@
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\BubbleSortProject\bin\Debug\BubbleSortProject.exe.config
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\BubbleSortProject\bin\Debug\BubbleSortProject.exe
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\BubbleSortProject\bin\Debug\BubbleSortProject.pdb
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\BubbleSortProject\obj\Debug\BubbleSortProject.csprojResolveAssemblyReference.cache
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\BubbleSortProject\obj\Debug\BubbleSortProject.csproj.CoreCompileInputs.cache
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\BubbleSortProject\obj\Debug\BubbleSortProject.exe
+V:\OneDrive_1_02-11-2017\SOFT152 Week 02 Topic B Exercises 17\SOFT152 Week 02 Topic B Exercises 17\BubbleSortProject\obj\Debug\BubbleSortProject.pdb
