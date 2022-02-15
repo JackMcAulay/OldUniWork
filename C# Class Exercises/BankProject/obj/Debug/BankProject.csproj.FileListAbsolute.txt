@@ -1,0 +1,7 @@
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\BankProject\bin\Debug\BankProject.exe.config
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\BankProject\bin\Debug\BankProject.exe
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\BankProject\bin\Debug\BankProject.pdb
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\BankProject\obj\Debug\BankProject.csprojResolveAssemblyReference.cache
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\BankProject\obj\Debug\BankProject.csproj.CoreCompileInputs.cache
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\BankProject\obj\Debug\BankProject.exe
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\BankProject\obj\Debug\BankProject.pdb

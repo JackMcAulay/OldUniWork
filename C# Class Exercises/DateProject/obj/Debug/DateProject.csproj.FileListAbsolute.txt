@@ -1,0 +1,7 @@
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\DateProject\bin\Debug\DateProject.exe.config
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\DateProject\bin\Debug\DateProject.exe
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\DateProject\bin\Debug\DateProject.pdb
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\DateProject\obj\Debug\DateProject.csprojResolveAssemblyReference.cache
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\DateProject\obj\Debug\DateProject.csproj.CoreCompileInputs.cache
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\DateProject\obj\Debug\DateProject.exe
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\DateProject\obj\Debug\DateProject.pdb

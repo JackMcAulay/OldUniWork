@@ -1,0 +1,7 @@
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\PersonProject\bin\Debug\PersonProject.exe.config
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\PersonProject\bin\Debug\PersonProject.exe
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\PersonProject\bin\Debug\PersonProject.pdb
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\PersonProject\obj\Debug\PersonProject.csprojResolveAssemblyReference.cache
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\PersonProject\obj\Debug\PersonProject.csproj.CoreCompileInputs.cache
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\PersonProject\obj\Debug\PersonProject.exe
+V:\SOFT152 Week 03 Topic B Exercises 17\SOFT152 Week 03 Topic B Exercises 17\PersonProject\obj\Debug\PersonProject.pdb
